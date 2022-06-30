@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class TestRebaseTwo {
+public class TestRebaseTwo {
+
+
+    private String propertieTest;
+
 }
